@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/MazeCollapse/Scenes/MM_CharSelect.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
